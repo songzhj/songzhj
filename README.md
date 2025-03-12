@@ -15,6 +15,12 @@ Frontend developer from China.
 
  - 2013/09 - 2017/07, Sofrware Engineering, JiLin University B.Eng.
 
+## Career Experience
+
+ - 2016/11 - 2018/07, Frontend Engineer, Qunar Inc.
+
+ - 2018/07 - 2023/11, Frontend Engineer, Yuanfudao(Kanyun Inc).
+
 ## Skills
 
 <p>
