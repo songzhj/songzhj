@@ -19,7 +19,7 @@ Frontend developer from China.
 
  - 2016/11 - 2018/07, Frontend Engineer, Qunar Inc.
 
- - 2018/07 - 2023/11, Frontend Engineer, Yuanfudao(Kanyun Inc).
+ - 2018/07 - 2023/11, Frontend Engineer, Yuanfudao(Kanyun Inc.).
 
 ## Skills
 
