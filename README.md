@@ -7,7 +7,7 @@ Frontend developer from China.
 
 - 💻 Freelancing for now.
 
-- 📖 Try learning Backend, maybe learn Lua later.
+- 📖 Try learning Flutter, maybe learn Lua later.
 
 - 🎮 Love Minecraft and DST, wrote a simple DST mod before.
 
